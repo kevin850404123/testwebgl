@@ -1,0 +1,18 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GuWebShowRoom",
+"productVersion": "0.1",
+"dataUrl": "d0487e3c5726be6f72737de8c586bf9b.unityweb",
+"wasmCodeUrl": "cb7034d512f607f154ccf6a995a1fd19.wasm",
+"wasmFrameworkUrl": "b59d492945b130d13ec453aff23300ac.unityweb",
+"wasmSymbolsUrl": "8858051abfc7a4478abba54b7c3bec9b.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "e490d4b00e300b89efc1a759cc272387.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
